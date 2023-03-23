@@ -125,7 +125,7 @@
     "@babel/preset-env": "7.8.7",
     "@babel/preset-typescript": "7.8.3",
     "@babel/types": "7.8.7",
-    "@types/core-js": "2.5.3",
+    "@types/core-js": "2.5.5",
     "@types/faker": "4.1.10",
     "@types/memdown": "3.0.0",
     "@types/mocha": "7.0.2",
